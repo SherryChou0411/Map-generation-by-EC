@@ -94,3 +94,6 @@ best_map = max(population, key=calculate_fitness)
 # Print the best map
 for row in best_map:
     print(''.join(row))
+
+# test commands
+# add for testing workflow trigger 
